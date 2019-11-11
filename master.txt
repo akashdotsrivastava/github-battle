@@ -6,3 +6,4 @@ Building navbar part 4 | PropTypes on Pure Function
 Fetching repos
 Caching repos
 Making grid of repos
+Making instructions for battle
