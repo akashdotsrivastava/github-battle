@@ -19,3 +19,4 @@ Building reusable profile list
 Building reset battle
 Building Loading component
 Building Tooltip component
+Building Tooltip | Higher Order Component
