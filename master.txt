@@ -16,3 +16,4 @@ Getting data from  battle API
 Building UI for results
 Building reusable card component
 Building reusable profile list
+Building reset battle
