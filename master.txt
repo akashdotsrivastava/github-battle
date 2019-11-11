@@ -12,3 +12,4 @@ Rendering Player Input
 Player Preview
 Barebone results component
 Building battle API
+Getting data from  battle API
