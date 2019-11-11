@@ -14,3 +14,4 @@ Barebone results component
 Building battle API
 Getting data from  battle API
 Building UI for results
+Building reusable card component
