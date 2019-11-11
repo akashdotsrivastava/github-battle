@@ -8,3 +8,4 @@ Caching repos
 Making grid of repos
 Making instructions for battle
 Taking Player Input
+Rendering Player Input
