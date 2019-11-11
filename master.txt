@@ -18,3 +18,4 @@ Building reusable card component
 Building reusable profile list
 Building reset battle
 Building Loading component
+Building Tooltip component
