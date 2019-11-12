@@ -28,3 +28,4 @@ Adding Routes
 Building navbar
 Adding querystrings for battle
 Adding catchall 404 for routing
+Refactoring using class fields
