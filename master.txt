@@ -25,3 +25,4 @@ Building Theme Provider
 Building Theme Provider | Toggle theme
 Building Theme Provider | Consume theme
 Adding Routes
+Building navbar
