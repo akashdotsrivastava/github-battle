@@ -30,3 +30,4 @@ Adding querystrings for battle
 Adding catchall 404 for routing
 Refactoring using class fields
 Using code split
+Production build
